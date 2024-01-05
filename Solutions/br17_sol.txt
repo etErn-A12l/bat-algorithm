@@ -1,0 +1,59 @@
+
+
+				----* 17 x 17 Matrix *----
+
+
+	  Iteration :      5 | Best Fitness :     41 | Optimum :   39 
+
+
+PATH:
+
+7  16  5  3  4  6  15  14  10  12  9  1  2  13  11  0  8  
+
+
+================================
+
+
+
+  BAT 1 : 	60  
+  BAT 2 : 	62  
+  BAT 3 : 	39  
+  BAT 4 : 	67  
+  BAT 5 : 	81  
+  BAT 6 : 	47  
+  BAT 7 : 	41  
+  BAT 8 : 	56  
+  BAT 9 : 	45  
+  BAT 10 : 	56  
+  BAT 11 : 	57  
+  BAT 12 : 	78  
+  BAT 13 : 	47  
+  BAT 14 : 	78  
+  BAT 15 : 	211  
+  BAT 16 : 	42  
+  BAT 17 : 	41  
+  BAT 18 : 	47  
+  BAT 19 : 	51  
+  BAT 20 : 	50  
+  BAT 21 : 	58  
+  BAT 22 : 	295  
+  BAT 23 : 	77  
+  BAT 24 : 	45  
+  BAT 25 : 	42  
+  BAT 26 : 	42  
+  BAT 27 : 	57  
+  BAT 28 : 	47  
+  BAT 29 : 	44  
+  BAT 30 : 	47  
+  BAT 31 : 	44  
+  BAT 32 : 	60  
+  BAT 33 : 	47  
+  BAT 34 : 	79  
+  BAT 35 : 	48  
+  BAT 36 : 	53  
+  BAT 37 : 	41  
+  BAT 38 : 	88  
+  BAT 39 : 	84  
+  BAT 40 : 	60  
+  BAT 41 : 	61  
+  BAT 42 : 	47  
